@@ -130,7 +130,7 @@ export default function Home() {
         }`}>
         <div className="max-w-5xl mx-auto flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <Image src="/Logo.jpeg" alt="Gorkha Kitchen" width={20} height={20}
+            <Image src="/Logo.jpeg" alt="Gorkha Kitchen" width={42} height={42}
               className="rounded-full border-2 border-amber-500/50 object-cover" />
             <div>
               <p className="text-amber-400 text-[13px] font-semibold tracking-widest"
